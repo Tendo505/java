@@ -1,0 +1,14 @@
+# Build output
+*.class
+*.exe
+*.jar
+out/
+bin/
+target/
+# IDE
+.vscode/
+.idea/
+*.iml
+# OS
+.DS_Store
+Thumbs.db
